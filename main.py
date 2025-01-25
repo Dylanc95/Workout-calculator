@@ -1,5 +1,3 @@
-from function import *
-
 print("-----| Workout Calculator |-----")
 
 #maxBench = 185
